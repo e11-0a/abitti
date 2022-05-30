@@ -48,7 +48,7 @@ menuentry "Lataa konfiguraatiolla: Litium ja käytä muokattua kometoriviä" --u
 
 Hyökkääjä voi lisätä kokeeseen liitetiedostoksi html-tiedoston, ja käyttää esikatselua suorittaakseen sen sisällön. Kaikki käyttäjät (ja henkilöt jotka eivät ole kirjautuneet sisään) voivat esikatsella minkä tahanka kokeen liitetiedostoja, jos tietävät liitetiedoston polun. Hyökkääjä voi liittää kokeeseen html-tiedoston, joka sisältää XSS-hyökkääyksessä käytettävän koodin ja lähettää linkin tiedostoon kohteelleen, jos kohde avaa tiedoston hyökkääjän luoma koodi voi tehdä pyyntöjä rajapintaan käyttäjän evästeillä, koodi suoritetaan domainissa oma.abitti.fi.
 
-<img src="/alert.png">
+<img src="/ilmoitus.png">
 
 ### CSRF
 
